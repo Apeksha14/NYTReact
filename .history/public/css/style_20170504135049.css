@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	background-image: url(http://ginva.com/wp-content/uploads/2012/07/city-skyline-wallpapers-008.jpg);
+	background-size: cover;
+	color:black;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.searchForm
+{
+	background-color:lightyellow ;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:black;
+}
+#navdiv
+{
+	background-color:lightyellow     ;
+	color: black;
+}	
+
+h2
+{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:black;
+}
+
+#headingh2
+{
+	background-color: lightyellow  ;
+	color:black;
+}
+
+a{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:black;
+}
+
+.headingh2
+{
+	color:black;
+}
+
+.resultdiv
+{
+	background-color: lightyellow;
+}

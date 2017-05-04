@@ -49,7 +49,7 @@ var helpers = {
 
   deleteSaved: function(title, data, url){
 
-    return axios.delete('/api/saved', {
+    return axios.delete('/api/delete', {
       params: {
           'title': title,
           'data': data,
